@@ -1,0 +1,23 @@
+# Arquivos TypeScript compilados
+dist/
+
+# Módulos npm instalados
+node_modules/
+
+# Arquivo de configuração de depuração do VSCode
+.vscode/
+
+# Arquivo de variáveis de ambiente
+.env
+
+# Arquivos de build do TypeScript
+*.tsbuildinfo
+*.js.map
+
+# Arquivos de configuração do TypeScript
+tsconfig.json
+tsconfig.*.json
+
+# Arquivos de configuração do ESLint
+.eslintrc
+.eslintignore
